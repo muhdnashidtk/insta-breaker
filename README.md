@@ -21,7 +21,7 @@ sudo apt-get update
 sudo apt-get install python3
 ```
 ```bash
-git clone https://github.com/GH05T-HUNTER5/insta-breaker
+git clone https://github.com/muhdnashidtk/insta-breaker
 ```
 ```bash
 cd insta-breaker
@@ -45,7 +45,7 @@ pkg update
 pkg install python -y
 ```
 ```bash
-git clone https://github.com/GH05T-HUNTER5/insta-breaker
+git clone https://github.com/muhdnashidtk/insta-breaker
 ```
 ```bash
 cd insta-breaker
